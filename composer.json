@@ -1,4 +1,6 @@
 {
+    "name": "codingex/blog",
+    "description": "codingex platform",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
